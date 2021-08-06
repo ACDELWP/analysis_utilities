@@ -9,8 +9,7 @@ def combine_FMP_export_files(
         data_folder=None,
         output_file=None,
         sheet_identifier='-FuelHazard',
-        verbose=True
-)
+        verbose=True):
     """
     This function creates a single report from a collection of individual outputs from 
     the Fuel Monitoring Portal.
